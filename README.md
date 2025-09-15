@@ -14,3 +14,7 @@ To build `ZhiMaMono` from source you should:
 ![ZhiMaMono-screenshot-01](screenshot-01.png)
 
 ![ZhiMaMono-screenshot-02](screenshot-02.png)
+
+# License
+
+Same as [License of Iosevka](https://github.com/be5invis/Iosevka/blob/main/LICENSE.md).
